@@ -38,7 +38,19 @@
     { "source": "/online-dating-scams", "destination": "/online-dating-scams.html", "permanent": true },
     { "source": "/online-dating-scams/", "destination": "/online-dating-scams.html", "permanent": true },
     { "source": "/what-is-a-romance-scam", "destination": "/what-is-a-romance-scam.html", "permanent": true },
-    { "source": "/what-is-a-romance-scam/", "destination": "/what-is-a-romance-scam.html", "permanent": true }
+    { "source": "/what-is-a-romance-scam/", "destination": "/what-is-a-romance-scam.html", "permanent": true },
+    { "source": "/dating-scams", "destination": "/online-dating-scams.html", "permanent": true },
+    { "source": "/dating-scams/", "destination": "/online-dating-scams.html", "permanent": true },
+    { "source": "/romance-fraud", "destination": "/romance-scams.html", "permanent": true },
+    { "source": "/romance-fraud/", "destination": "/romance-scams.html", "permanent": true },
+    { "source": "/what-are-romance-scams", "destination": "/what-is-a-romance-scam.html", "permanent": true },
+    { "source": "/what-are-romance-scams/", "destination": "/what-is-a-romance-scam.html", "permanent": true },
+    { "source": "/what-is-pig-butchering", "destination": "/pig-butchering-scam.html", "permanent": true },
+    { "source": "/what-is-pig-butchering/", "destination": "/pig-butchering-scam.html", "permanent": true },
+    { "source": "/cancel-dating-apps", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/cancel-dating-apps/", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/relationship-scams", "destination": "/relationship-scams.html", "permanent": true },
+    { "source": "/relationship-scams/", "destination": "/relationship-scams.html", "permanent": true }
   ],
   "headers": [
     {
