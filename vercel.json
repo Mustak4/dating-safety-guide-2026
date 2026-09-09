@@ -20,7 +20,13 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/what-is-catfishing", "destination": "/what-is-catfishing.html", "permanent": true },
+    { "source": "/what-is-catfishing/", "destination": "/what-is-catfishing.html", "permanent": true },
+    { "source": "/catfishing", "destination": "/what-is-catfishing.html", "permanent": true },
+    { "source": "/catfishing/", "destination": "/what-is-catfishing.html", "permanent": true },
+    { "source": "/catfishing-scam", "destination": "/catfishing-scam.html", "permanent": true },
+    { "source": "/catfishing-scam/", "destination": "/catfishing-scam.html", "permanent": true }
   ],
   "headers": [
     {
