@@ -352,6 +352,46 @@
       "source": "/webcam-blackmail/",
       "destination": "/what-is-sextortion.html",
       "permanent": true
+    },
+    {
+      "source": "/military-romance-scams",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/military-romance-scams/",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/army-romance-scams",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/army-romance-scams/",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/military-love-scams",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/military-love-scams/",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/military-dating-scams",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
+    },
+    {
+      "source": "/military-dating-scams/",
+      "destination": "/military-romance-scams.html",
+      "permanent": true
     }
   ],
   "headers": [
