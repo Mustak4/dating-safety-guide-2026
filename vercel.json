@@ -20,7 +20,13 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/romance-scam-examples", "destination": "/romance-scam-examples.html", "permanent": true },
+    { "source": "/romance-scam-examples/", "destination": "/romance-scam-examples.html", "permanent": true },
+    { "source": "/signs-of-romance-scams", "destination": "/romance-scam-red-flags-checklist.html", "permanent": true },
+    { "source": "/signs-of-romance-scams/", "destination": "/romance-scam-red-flags-checklist.html", "permanent": true },
+    { "source": "/how-to-avoid-romance-scams", "destination": "/romance-scams.html", "permanent": true },
+    { "source": "/how-to-avoid-romance-scams/", "destination": "/romance-scams.html", "permanent": true }
   ],
   "headers": [
     {
