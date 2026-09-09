@@ -47,12 +47,12 @@
   </url>
   <url>
     <loc>https://www.datesafelyguide.com/guides.html</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <image:image><image:loc>https://www.datesafelyguide.com/og-brand.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.datesafelyguide.com/sitemap.html</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-09-09</lastmod>
   </url>
   <url>
     <loc>https://www.datesafelyguide.com/complete-dating-app-safety-guide.html</loc>
@@ -133,5 +133,12 @@
     <loc>https://www.datesafelyguide.com/privacy.html</loc>
     <lastmod>2026-08-17</lastmod>
     <image:image><image:loc>https://www.datesafelyguide.com/images/safety-checklist.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.datesafelyguide.com/dating-and-romance-scams.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://www.datesafelyguide.com/images/red-flags.jpg</image:loc></image:image>
   </url>
 </urlset>
