@@ -384,6 +384,81 @@
       "permanent": true
     },
     {
+      "source": "/how-to-spot-a-catfish",
+      "destination": "/what-is-catfishing.html",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-spot-a-catfish/",
+      "destination": "/what-is-catfishing.html",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-spot-a-catfish.html",
+      "destination": "/what-is-catfishing.html",
+      "permanent": true
+    },
+    {
+      "source": "/spot-a-catfish",
+      "destination": "/what-is-catfishing.html",
+      "permanent": true
+    },
+    {
+      "source": "/spot-a-catfish/",
+      "destination": "/what-is-catfishing.html",
+      "permanent": true
+    },
+    {
+      "source": "/spot-a-catfish.html",
+      "destination": "/what-is-catfishing.html",
+      "permanent": true
+    },
+    {
+      "source": "/fake-dating-profiles",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/fake-dating-profiles/",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/fake-dating-profiles.html",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/fake-dating-profile",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/fake-dating-profile/",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/fake-dating-profile.html",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/catfish-scam",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/catfish-scam/",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/catfish-scam.html",
+      "destination": "/catfishing-scam.html",
+      "permanent": true
+    },
+    {
       "source": "/military-romance-scams",
       "destination": "/military-romance-scams.html",
       "permanent": true
