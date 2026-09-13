@@ -20,7 +20,27 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/zelle-scams", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/zelle-scams/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/zelle-scam", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/zelle-scam/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/zelle-scam.html", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cash-app-scams", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cash-app-scams/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cash-app-scams.html", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cash-app-scam", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cash-app-scam/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cash-app-scam.html", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cashapp-scams", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cashapp-scams/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/cashapp-scams.html", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/venmo-scams", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/venmo-scams/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/venmo-scams.html", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/venmo-scam", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/venmo-scam/", "destination": "/zelle-scams.html", "permanent": true },
+    { "source": "/venmo-scam.html", "destination": "/zelle-scams.html", "permanent": true }
   ],
   "headers": [
     {
