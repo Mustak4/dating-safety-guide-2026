@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/how-romance-scams-work", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/how-romance-scams-work/", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/how-do-romance-scams-work", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/how-do-romance-scams-work/", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/how-do-romance-scams-work.html", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/romance-scam-stages", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/romance-scam-stages/", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/romance-scam-stages.html", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/romance-scam-process", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/romance-scam-process/", "destination": "/how-romance-scams-work.html", "permanent": true },
+    { "source": "/romance-scam-process.html", "destination": "/how-romance-scams-work.html", "permanent": true }
   ],
   "headers": [
     {
