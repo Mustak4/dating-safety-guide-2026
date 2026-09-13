@@ -335,12 +335,12 @@
     },
     {
       "source": "/online-blackmail",
-      "destination": "/sextortion-help.html",
+      "destination": "/online-blackmail.html",
       "permanent": true
     },
     {
       "source": "/online-blackmail/",
-      "destination": "/sextortion-help.html",
+      "destination": "/online-blackmail.html",
       "permanent": true
     },
     {
