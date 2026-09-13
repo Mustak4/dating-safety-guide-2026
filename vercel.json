@@ -20,7 +20,21 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/facebook-dating-scams", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-dating-scams/", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-dating-scam", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-dating-scam/", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-dating-scam.html", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-romance-scams", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-romance-scams/", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-romance-scams.html", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/messenger-dating-scams", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/messenger-dating-scams/", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/messenger-dating-scams.html", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-messenger-scams", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-messenger-scams/", "destination": "/facebook-dating-scams.html", "permanent": true },
+    { "source": "/facebook-messenger-scams.html", "destination": "/facebook-dating-scams.html", "permanent": true }
   ],
   "headers": [
     {
