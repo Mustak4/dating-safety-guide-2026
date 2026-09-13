@@ -20,7 +20,15 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/romance-scam-stories", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/romance-scam-stories/", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/romance-scam-story", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/romance-scam-story/", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/romance-scam-story.html", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/dating-scam-stories", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/dating-scam-stories/", "destination": "/romance-scam-stories.html", "permanent": true },
+    { "source": "/dating-scam-stories.html", "destination": "/romance-scam-stories.html", "permanent": true }
   ],
   "headers": [
     {
