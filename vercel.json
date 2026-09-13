@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/how-to-spot-a-romance-scammer", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/how-to-spot-a-romance-scammer/", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/spot-a-romance-scammer", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/spot-a-romance-scammer/", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/spot-a-romance-scammer.html", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/romance-scammer-signs", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/romance-scammer-signs/", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/romance-scammer-signs.html", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/signs-of-a-romance-scammer", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/signs-of-a-romance-scammer/", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true },
+    { "source": "/signs-of-a-romance-scammer.html", "destination": "/how-to-spot-a-romance-scammer.html", "permanent": true }
   ],
   "headers": [
     {
