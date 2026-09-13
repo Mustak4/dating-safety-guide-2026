@@ -20,7 +20,21 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/lottery-romance-scams", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-romance-scams/", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-romance-scam", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-romance-scam/", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-romance-scam.html", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/inheritance-scam-dating", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/inheritance-scam-dating/", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/inheritance-scam-dating.html", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/inheritance-romance-scam", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/inheritance-romance-scam/", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/inheritance-romance-scam.html", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-scam-dating", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-scam-dating/", "destination": "/lottery-romance-scams.html", "permanent": true },
+    { "source": "/lottery-scam-dating.html", "destination": "/lottery-romance-scams.html", "permanent": true }
   ],
   "headers": [
     {
