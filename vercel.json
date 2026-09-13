@@ -20,7 +20,21 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/senior-dating-scams", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/senior-dating-scams/", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/elderly-dating-scams", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/elderly-dating-scams/", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/elderly-dating-scams.html", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/senior-romance-scams", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/senior-romance-scams/", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/senior-romance-scams.html", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/romance-scams-elderly", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/romance-scams-elderly/", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/romance-scams-elderly.html", "destination": "/senior-dating-scams.html", "permanent": true },
+    { "source": "/elder-scams", "destination": "/elderly-scams.html", "permanent": true },
+    { "source": "/elder-scams/", "destination": "/elderly-scams.html", "permanent": true },
+    { "source": "/elder-scams.html", "destination": "/elderly-scams.html", "permanent": true }
   ],
   "headers": [
     {
