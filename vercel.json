@@ -20,7 +20,15 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/how-to-verify-someone-online", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/how-to-verify-someone-online/", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/reverse-image-search-dating.html", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/reverse-image-search-dating", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/reverse-image-search-dating/", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/verify-dating-profile.html", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/verify-dating-profile", "destination": "/how-to-verify-someone-online.html", "permanent": true },
+    { "source": "/verify-dating-profile/", "destination": "/how-to-verify-someone-online.html", "permanent": true }
   ],
   "headers": [
     {
