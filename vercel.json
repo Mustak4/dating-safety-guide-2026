@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/pet-scam-romance", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/pet-scam-romance/", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/puppy-scam-dating", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/puppy-scam-dating/", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/puppy-scam-dating.html", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/pet-shipping-scam", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/pet-shipping-scam/", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/pet-shipping-scam.html", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/romance-pet-scam", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/romance-pet-scam/", "destination": "/pet-scam-romance.html", "permanent": true },
+    { "source": "/romance-pet-scam.html", "destination": "/pet-scam-romance.html", "permanent": true }
   ],
   "headers": [
     {
