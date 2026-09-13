@@ -474,6 +474,16 @@
       "permanent": true
     },
     {
+      "source": "/scam-recovery.html",
+      "destination": "/get-money-back-from-scam.html",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-get-money-back-from-scam.html",
+      "destination": "/get-money-back-from-scam.html",
+      "permanent": true
+    },
+    {
       "source": "/scam-phone-numbers",
       "destination": "/scam-phone-numbers.html",
       "permanent": true
