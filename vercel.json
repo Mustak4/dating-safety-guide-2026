@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/apple-pay-scams", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-pay-scams/", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-pay-scam", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-pay-scam/", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-pay-scam.html", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-cash-scams", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-cash-scams/", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-cash-scams.html", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-cash-scam", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-cash-scam/", "destination": "/apple-pay-scams.html", "permanent": true },
+    { "source": "/apple-cash-scam.html", "destination": "/apple-pay-scams.html", "permanent": true }
   ],
   "headers": [
     {
