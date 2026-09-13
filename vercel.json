@@ -20,7 +20,21 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/tinder-scams", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/tinder-scams/", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/tinder-scam", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/tinder-scam/", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/tinder-scam.html", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/is-tinder-safe", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/is-tinder-safe/", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/is-tinder-safe.html", "destination": "/tinder-scams.html", "permanent": true },
+    { "source": "/bumble-scams", "destination": "/dating-app-scams.html", "permanent": true },
+    { "source": "/bumble-scams/", "destination": "/dating-app-scams.html", "permanent": true },
+    { "source": "/bumble-scams.html", "destination": "/dating-app-scams.html", "permanent": true },
+    { "source": "/hinge-scams", "destination": "/dating-app-scams.html", "permanent": true },
+    { "source": "/hinge-scams/", "destination": "/dating-app-scams.html", "permanent": true },
+    { "source": "/hinge-scams.html", "destination": "/dating-app-scams.html", "permanent": true }
   ],
   "headers": [
     {
