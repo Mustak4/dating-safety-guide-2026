@@ -20,7 +20,27 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/western-union-scams", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/western-union-scams/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/western-union-scam", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/western-union-scam/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/western-union-scam.html", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/moneygram-scams", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/moneygram-scams/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/moneygram-scams.html", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/moneygram-scam", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/moneygram-scam/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/moneygram-scam.html", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/wire-transfer-scams", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/wire-transfer-scams/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/wire-transfer-scams.html", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/wire-transfer-scam", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/wire-transfer-scam/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/wire-transfer-scam.html", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/ria-money-transfer-scam", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/ria-money-transfer-scam/", "destination": "/western-union-scams.html", "permanent": true },
+    { "source": "/ria-money-transfer-scam.html", "destination": "/western-union-scams.html", "permanent": true }
   ],
   "headers": [
     {
