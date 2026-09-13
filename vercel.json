@@ -20,7 +20,19 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/crypto-romance-scams", "destination": "/crypto-romance-scams.html", "permanent": true },
+    { "source": "/crypto-romance-scams/", "destination": "/crypto-romance-scams.html", "permanent": true },
+    { "source": "/army-romance-scams", "destination": "/military-romance-scams.html", "permanent": true },
+    { "source": "/army-romance-scams/", "destination": "/military-romance-scams.html", "permanent": true },
+    { "source": "/military-love-scams", "destination": "/military-romance-scams.html", "permanent": true },
+    { "source": "/military-love-scams/", "destination": "/military-romance-scams.html", "permanent": true },
+    { "source": "/military-dating-scams", "destination": "/military-romance-scams.html", "permanent": true },
+    { "source": "/military-dating-scams/", "destination": "/military-romance-scams.html", "permanent": true },
+    { "source": "/how-to-handle-sextortion", "destination": "/sextortion-help.html", "permanent": true },
+    { "source": "/how-to-handle-sextortion/", "destination": "/sextortion-help.html", "permanent": true },
+    { "source": "/victims-of-sextortion", "destination": "/sextortion-help.html", "permanent": true },
+    { "source": "/victims-of-sextortion/", "destination": "/sextortion-help.html", "permanent": true }
   ],
   "headers": [
     {
