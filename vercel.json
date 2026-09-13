@@ -20,7 +20,24 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/fake-check-scams", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-check-scams/", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-check-scam", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-check-scam/", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-check-scam.html", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/cashiers-check-scam", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/cashiers-check-scam/", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/cashiers-check-scam.html", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/cashiers-check-scams", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/cashiers-check-scams/", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/cashiers-check-scams.html", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-cashiers-check", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-cashiers-check/", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/fake-cashiers-check.html", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/money-order-scam", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/money-order-scam/", "destination": "/fake-check-scams.html", "permanent": true },
+    { "source": "/money-order-scam.html", "destination": "/fake-check-scams.html", "permanent": true }
   ],
   "headers": [
     {
