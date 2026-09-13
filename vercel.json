@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/google-voice-scams", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/google-voice-scams/", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/google-voice-dating-scam", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/google-voice-dating-scam/", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/google-voice-dating-scam.html", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/voip-dating-scam", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/voip-dating-scam/", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/voip-dating-scam.html", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/fake-phone-number-dating", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/fake-phone-number-dating/", "destination": "/google-voice-scams.html", "permanent": true },
+    { "source": "/fake-phone-number-dating.html", "destination": "/google-voice-scams.html", "permanent": true }
   ],
   "headers": [
     {
