@@ -215,7 +215,14 @@ body.nav-lock { overflow: hidden; }
 }
 .mobile-panel a:hover { background: var(--surface); text-decoration: none; }
 .mobile-panel a[aria-current="page"] { background: var(--accent-soft); }
-.mobile-panel .nav-cta { display: flex; margin-top: 6px; width: 100%; }
+.mobile-panel a.nav-cta {
+  display: flex;
+  margin-top: 6px;
+  width: 100%;
+  background: var(--accent);
+  color: #fff;
+  justify-content: center;
+}
 
 @media (min-width: 920px) {
   .pill-links { display: flex; }
