@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/paypal-scams", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-scams/", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-dating-scam", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-dating-scam/", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-dating-scam.html", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-romance-scam", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-romance-scam/", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-romance-scam.html", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-friends-and-family-scam", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-friends-and-family-scam/", "destination": "/paypal-scams.html", "permanent": true },
+    { "source": "/paypal-friends-and-family-scam.html", "destination": "/paypal-scams.html", "permanent": true }
   ],
   "headers": [
     {
