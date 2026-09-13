@@ -772,3 +772,7 @@ main.page.wrap { max-width: 42rem; padding-bottom: 80px; }
   color: var(--ink);
 }
 .page article blockquote p { margin: 0; }
+
+.page article :is(h2, h3)[id] {
+  scroll-margin-top: 88px;
+}
