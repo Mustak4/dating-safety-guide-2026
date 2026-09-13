@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/customs-fee-scams", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/customs-fee-scams/", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/customs-fee-scam", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/customs-fee-scam/", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/customs-fee-scam.html", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/shipping-fee-scams", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/shipping-fee-scams/", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/shipping-fee-scams.html", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/advance-fee-dating-scams", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/advance-fee-dating-scams/", "destination": "/customs-fee-scams.html", "permanent": true },
+    { "source": "/advance-fee-dating-scams.html", "destination": "/customs-fee-scams.html", "permanent": true }
   ],
   "headers": [
     {
