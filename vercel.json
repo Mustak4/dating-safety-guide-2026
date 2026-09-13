@@ -20,7 +20,21 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/linkedin-dating-scams", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-dating-scams/", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-dating-scam", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-dating-scam/", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-dating-scam.html", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-romance-scams", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-romance-scams/", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-romance-scams.html", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-romance-scam", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-romance-scam/", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-romance-scam.html", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-scam-dating", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-scam-dating/", "destination": "/linkedin-dating-scams.html", "permanent": true },
+    { "source": "/linkedin-scam-dating.html", "destination": "/linkedin-dating-scams.html", "permanent": true }
   ],
   "headers": [
     {
