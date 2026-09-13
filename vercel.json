@@ -20,7 +20,24 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/oil-rig-scam", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-scam/", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-scams", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-scams/", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-scams.html", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-romance-scam", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-romance-scam/", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-romance-scam.html", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-romance-scams", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-romance-scams/", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-romance-scams.html", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-dating-scam", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-dating-scam/", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-dating-scam.html", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-dating-scams", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-dating-scams/", "destination": "/oil-rig-scam.html", "permanent": true },
+    { "source": "/oil-rig-dating-scams.html", "destination": "/oil-rig-scam.html", "permanent": true }
   ],
   "headers": [
     {
