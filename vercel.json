@@ -20,7 +20,15 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/i-sent-money-to-a-scammer", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/i-sent-money-to-a-scammer/", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/sent-money-to-scammer", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/sent-money-to-scammer/", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/sent-money-to-scammer.html", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/i-paid-a-scammer", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/i-paid-a-scammer/", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true },
+    { "source": "/i-paid-a-scammer.html", "destination": "/i-sent-money-to-a-scammer.html", "permanent": true }
   ],
   "headers": [
     {
