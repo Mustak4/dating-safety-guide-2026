@@ -20,7 +20,18 @@
     { "source": "/cancel/pricing.html", "destination": "/pricing.html", "permanent": true },
     { "source": "/cancel/faq.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
     { "source": "/cancel/stop-charges.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
-    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true }
+    { "source": "/cancel/badoo.html", "destination": "/how-to-cancel-dating-apps.html", "permanent": true },
+    { "source": "/bank-transfer-scams", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/bank-transfer-scams/", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/wire-fraud-romance", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/wire-fraud-romance/", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/wire-fraud-romance.html", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/wire-transfer-dating-scam", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/wire-transfer-dating-scam/", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/wire-transfer-dating-scam.html", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/ach-romance-scam", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/ach-romance-scam/", "destination": "/bank-transfer-scams.html", "permanent": true },
+    { "source": "/ach-romance-scam.html", "destination": "/bank-transfer-scams.html", "permanent": true }
   ],
   "headers": [
     {
